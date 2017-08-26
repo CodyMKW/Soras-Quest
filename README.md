@@ -3,7 +3,7 @@
 
 A game being developed by CodyMKW on the 3ds with RPG Maker Fes!
 
-# TO DO List
+# Working on
 - [x] First Village
 - [ ] NPCs for first Village
 - [x] Interior for houses in first Village
