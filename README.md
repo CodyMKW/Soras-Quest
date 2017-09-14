@@ -1,5 +1,5 @@
 # Sora's Quest
-![alt text](https://github.com/CodyMKW/Soras-Quest/blob/master/screenshots/title-screen.png?raw=true)
+![](https://github.com/CodyMKW/Soras-Quest/blob/master/screenshots/title-screen.png?raw=true)
 
 A game being developed by CodyMKW on the 3ds with RPG Maker Fes!
 
