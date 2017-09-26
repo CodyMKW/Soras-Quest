@@ -1,1 +1,28 @@
-theme: jekyll-theme-midnight
+# Site settings
+title: Grayscale
+email: codybbrown1991@gmail.com
+url: https://codymkw.github.io
+description: "A game being developed by CodyMKW on the 3ds with RPG Maker Fes!"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: CodyMKW
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/CodyMKW
+  - title: facebook
+    url: https://facebook.com/CodyMKW
+  - title: instagram
+    url: https://instagram.com/CodyMKW
+  - title: github
+    url: https://github.com/CodyMKW/Soras-Quest
+
+# Build settings
+markdown: kramdown
+permalink: pretty
